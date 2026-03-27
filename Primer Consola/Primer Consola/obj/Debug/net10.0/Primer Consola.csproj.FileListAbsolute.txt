@@ -1,0 +1,14 @@
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\bin\Debug\net10.0\Primer Consola.exe
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\bin\Debug\net10.0\Primer Consola.deps.json
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\bin\Debug\net10.0\Primer Consola.runtimeconfig.json
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\bin\Debug\net10.0\Primer Consola.dll
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\bin\Debug\net10.0\Primer Consola.pdb
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\Primer Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\Primer Consola.AssemblyInfoInputs.cache
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\Primer Consola.AssemblyInfo.cs
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\Primer Consola.csproj.CoreCompileInputs.cache
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\Primer Consola.dll
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\refint\Primer Consola.dll
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\Primer Consola.pdb
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\Primer Consola.genruntimeconfig.cache
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\Primer Consola\Primer Consola\obj\Debug\net10.0\ref\Primer Consola.dll

@@ -1,0 +1,14 @@
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\StringsvsStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\StringsvsStringBuilder.AssemblyInfoInputs.cache
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\StringsvsStringBuilder.AssemblyInfo.cs
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\StringsvsStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\bin\Debug\net10.0\StringsvsStringBuilder.exe
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\bin\Debug\net10.0\StringsvsStringBuilder.deps.json
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\bin\Debug\net10.0\StringsvsStringBuilder.runtimeconfig.json
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\bin\Debug\net10.0\StringsvsStringBuilder.dll
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\bin\Debug\net10.0\StringsvsStringBuilder.pdb
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\StringsvsStringBuilder.dll
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\refint\StringsvsStringBuilder.dll
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\StringsvsStringBuilder.pdb
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\StringsvsStringBuilder.genruntimeconfig.cache
+C:\Users\Redes-04\Profe Romero\C#\01 Introduccion\StringsvsStringBuilder\StringsvsStringBuilder\obj\Debug\net10.0\ref\StringsvsStringBuilder.dll
