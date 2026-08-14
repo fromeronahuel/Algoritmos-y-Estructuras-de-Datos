@@ -1,0 +1,14 @@
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\Pixelverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\Pixelverse.AssemblyInfoInputs.cache
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\Pixelverse.AssemblyInfo.cs
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\Pixelverse.csproj.CoreCompileInputs.cache
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\bin\Debug\net8.0\Pixelverse.exe
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\bin\Debug\net8.0\Pixelverse.deps.json
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\bin\Debug\net8.0\Pixelverse.runtimeconfig.json
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\bin\Debug\net8.0\Pixelverse.dll
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\bin\Debug\net8.0\Pixelverse.pdb
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\Pixelverse.dll
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\refint\Pixelverse.dll
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\Pixelverse.pdb
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\Pixelverse.genruntimeconfig.cache
+C:\Users\Redes-04\Profe Romero\U2\01 - Ejemplos aritm\Pixelverse\Pixelverse\obj\Debug\net8.0\ref\Pixelverse.dll
